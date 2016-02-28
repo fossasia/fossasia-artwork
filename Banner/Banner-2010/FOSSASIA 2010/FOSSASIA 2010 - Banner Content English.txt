@@ -1,0 +1,39 @@
+Content English Banner
+
+FOSSASIA
+Nov. 12-14, 2010
+Ho Chi Minh City (Saigon)
+Raffles International College
+
+Topics:
+* Open Design of Fonts and Web
+* HTML 5 and Mozilla
+* Android Design
+* Web and Interface Development
+* OpenOffice.org
+* Translation of Software
+* Mobile Design
+* Software Development
+* Open Source Business
+* Startup Open Source like Google
+* Drupal, Joomla, Typo3
+
+
+Friday, Nov. 12
+* Info Day and short presentations
+Saturday, Nov 13
+* Community Day with 50 speakers from 35 countries
+* Design Afternoon and workshops: Learn to design your own font
+Sunday
+* Workshop Day: Follow up about what you have learned
+
+
+FOSSASIA is one of the top Free and Open Source Software (FOSS) events for developers, enterprises, governments and general users held annually in Vietnam. The event brings together FOSS projects from Asia and around the world. More than 100 volunteers support participants at the conference. More than half of all participants are women. Over 50 percent of speakers come from outside Vietnam. It will be held in Ho Chi Minh City's Raffles International College from November 12 – 14, 2010 with the focus:  Lightweight Computing and Women in IT. In 2010 the event hosts the OpenOffice.org community with a special track. Please join us.
+
+Images
+* Raffles College
+* FOSSASIA
+* MBM
+* QTSC Online
+
+Check out: fossasia.org

@@ -1,0 +1,50 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: FOSS-T-Shirt-Gray Color.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: millimeters
+Artboard Dimensions: 548.0523 mm x 300.5519 mm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+PANTONE 144 U (Lab)
+PANTONE 5415 U (Lab)
+PANTONE Cool Gray 11 C (CMYK)
+
+-----------------------------------------------------------------------------
+Missing Fonts:
+NSimSun (not installed)
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Stencil (OTF)
+Spaceman (TrueType)
+Myriad Pro (OTF)
+Myriad Pro Bold (OTF)
+ Pr6N R (OTF)
+ Pr6N B (OTF)
+Ethnocentric (TrueType)
+Latha (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
