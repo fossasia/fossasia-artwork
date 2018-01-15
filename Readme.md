@@ -15,3 +15,7 @@ Lightness 41.6%.
 Obtain: #d40000 color hex could be obtained by blending #ff0000 with #a90000
 
 Web: Closest websafe color is #cc0000
+
+## Font
+
+The FOSSASIA Font is Spaceman as found here: https://www.dafont.com/spaceman.font
