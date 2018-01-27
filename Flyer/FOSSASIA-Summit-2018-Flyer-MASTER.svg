@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="FOSSASIA-Summit-2018-Poster-MASTER.svg"
+   sodipodi:docname="FOSSASIA-Summit-2018-Flyer-MASTER.svg"
    inkscape:export-filename="/home/opntec/Downloads/FOSSASIA-Summit-2018-Poster.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
@@ -2561,8 +2561,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45254834"
-     inkscape:cx="709.45632"
-     inkscape:cy="444.43449"
+     inkscape:cx="346.32975"
+     inkscape:cy="566.96585"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2595,7 +2595,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2693,7 +2693,7 @@
        style="display:inline;fill:#d40000;fill-opacity:1;stroke:none" />
     <g
        id="g5142"
-       transform="matrix(1,0,0,0.83312028,470.79425,145.61908)"
+       transform="matrix(1,0,0,0.83312028,470.79425,151.86908)"
        style="fill:#ececec">
       <rect
          style="display:inline;fill:#ececec;fill-opacity:1;stroke:none"
@@ -2717,9 +2717,9 @@
            id="tspan7384" /></text>
     </g>
     <rect
-       y="607.10773"
+       y="621.17023"
        x="2.8835507e-06"
-       height="134.3736"
+       height="142.1861"
        width="744.09448"
        id="rect4945-8"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
@@ -3021,7 +3021,7 @@
          y="864.37622"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.52584362px;font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff">Supported by</tspan></text>
     <g
-       transform="matrix(2.4015566,0,0,-2.4015566,-896.7346,690.02113)"
+       transform="matrix(2.5101842,0,0,-2.5101842,-954.12434,720.0738)"
        id="g16250">
       <g
          transform="matrix(2.2603163,0,0,2.2603163,577.61394,247.61261)"
@@ -3219,7 +3219,7 @@
     </g>
     <g
        id="g5193"
-       transform="matrix(0.21226749,0,0,0.21226749,506.08738,169.30284)"
+       transform="matrix(0.21226749,0,0,0.21226749,507.64988,180.24034)"
        style="fill:#ffffff">
       <path
          style="fill:#ffffff"
@@ -3259,80 +3259,80 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:62.76652145px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="76.578682"
-       y="805.86328"
+       style="font-style:normal;font-weight:normal;font-size:43.23527145px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="188.10143"
+       y="817.97266"
        id="text5563"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5565"
-         x="76.578682"
-         y="805.86328"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:62.76652145px;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';fill:#d40000">Tickets: fossasia.sg</tspan></text>
+         x="188.10143"
+         y="817.97266"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:43.23527145px;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';fill:#d40000">2018.fossasia.org</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:69.2914505px;line-height:104.99999523%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="100.8313"
-       y="151.0834"
+       style="font-style:normal;font-weight:normal;font-size:67.56397247px;line-height:104.99999523%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="86.296494"
+       y="156.32161"
        id="text10126-5-6-9-0"
        sodipodi:linespacing="105%"
        transform="scale(0.96802862,1.0330273)"><tspan
          sodipodi:role="line"
-         x="100.8313"
-         y="151.0834"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.80047226px;line-height:104.99999523%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:start;letter-spacing:0.80613989px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="tspan8208-8-6-6">Open Technology Summit</tspan><tspan
+         x="86.296494"
+         y="156.32161"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:43.68356323px;line-height:104.99999523%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:start;letter-spacing:0.78604227px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="tspan5640">Open Tech Summit Singapore</tspan><tspan
          sodipodi:role="line"
-         x="100.8313"
-         y="198.1239"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:44.80047226px;line-height:104.99999523%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:start;letter-spacing:0.80613989px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="tspan5640">March 22 -25, 2018</tspan></text>
+         x="86.296494"
+         y="202.18935"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:43.68356323px;line-height:104.99999523%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:start;letter-spacing:0.78604227px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="tspan5082">March 22 -25, 2018</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:34.72386169px;line-height:117.99999475%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
        x="408.59369"
-       y="225.43179"
+       y="234.50706"
        id="text10126-5-6"
        sodipodi:linespacing="117.99999%"
        transform="scale(0.96802862,1.0330273)"><tspan
          sodipodi:role="line"
          x="408.59369"
-         y="225.43179"
+         y="234.50706"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.45075607px;line-height:104.99999523%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:start;letter-spacing:0.403979px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="tspan5617" /><tspan
          sodipodi:role="line"
          x="408.59369"
-         y="251.30795"
+         y="260.38321"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.45075607px;line-height:117.99999475%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:start;letter-spacing:0.403979px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="tspan5619">200+ Global Tech Speakers</tspan><tspan
          sodipodi:role="line"
          x="408.59369"
-         y="277.79984"
+         y="286.87509"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.45075607px;line-height:117.99999475%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:start;letter-spacing:0.403979px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="tspan7744">250+ Sessions &amp; Panels</tspan><tspan
          sodipodi:role="line"
          x="408.59369"
-         y="304.29172"
+         y="313.36697"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.45075607px;line-height:117.99999475%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:start;letter-spacing:0.403979px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="tspan5568">6 International Keynotes</tspan><tspan
          sodipodi:role="line"
          x="408.59369"
-         y="330.78363"
+         y="339.85889"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.45075607px;line-height:117.99999475%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:start;letter-spacing:0.403979px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="tspan7121">12 Conference Tracks</tspan><tspan
          sodipodi:role="line"
          x="408.59369"
-         y="357.27551"
+         y="366.35077"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.45075607px;line-height:117.99999475%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:start;letter-spacing:0.403979px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="tspan5280">4 Days Conference</tspan><tspan
          sodipodi:role="line"
          x="408.59369"
-         y="383.7674"
+         y="392.84265"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.45075607px;line-height:117.99999475%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:start;letter-spacing:0.403979px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="tspan7123">3 Days Exhibition</tspan><tspan
          sodipodi:role="line"
          x="408.59369"
-         y="410.25928"
+         y="419.33453"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.45075607px;line-height:117.99999475%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:start;letter-spacing:0.403979px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="tspan7127">UNESCO Open Data Hackathon</tspan></text>
     <g
@@ -3434,41 +3434,41 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:33.50128555px;line-height:104.99999523%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
        x="365.00433"
-       y="459.14401"
+       y="465.19418"
        id="text10126-5-6-2"
        sodipodi:linespacing="105%"
        transform="scale(0.96802862,1.0330273)"><tspan
          sodipodi:role="line"
          x="365.00433"
-         y="459.14401"
+         y="465.19418"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.6602993px;line-height:104.99999523%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:start;letter-spacing:0.38975546px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="tspan8208-8-9">Join us at Singapore's brand new</tspan></text>
+         id="tspan8208-8-9">Join us at Singapore's high tech</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:19.30250359px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="376.42236"
-       y="638.06189"
+       style="font-style:normal;font-weight:normal;font-size:17.66805458px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="374.56509"
+       y="656.07806"
        id="text15138"
        sodipodi:linespacing="125%"
        transform="scale(0.9903009,1.0097941)"><tspan
          id="tspan6566"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:31.54284477px;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:center;text-anchor:middle;fill:#333333"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.87193871px;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:center;text-anchor:middle;fill:#333333"
          sodipodi:role="line"
-         x="376.42236"
-         y="638.06189">Personal Voice Assistants, Blockchain, Cloud,</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:31.54284477px;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:center;text-anchor:middle;fill:#333333"
+         x="377.86392"
+         y="656.07806">Free/Open Source Voice Assistants, Blockchain, </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.87193871px;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:center;text-anchor:middle;fill:#333333"
          sodipodi:role="line"
-         x="380.0264"
-         y="677.49042"
-         id="tspan7117"> AI, Conversational Web, Open Hardware </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:31.54284477px;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:center;text-anchor:middle;fill:#333333"
+         x="377.86392"
+         y="692.16797"
+         id="tspan7117">Cloud,  AI, Conversational Web, Open Hardware </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.87193871px;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';text-align:center;text-anchor:middle;fill:#333333"
          sodipodi:role="line"
-         x="376.42236"
-         y="716.91901"
+         x="374.56509"
+         y="728.25793"
          id="tspan5272">at Asia's Premier Developer Event</tspan></text>
     <g
        id="g7089"
-       transform="matrix(0.95404381,-0.14081086,0.14081086,0.95404381,587.88388,-70.29517)">
+       transform="matrix(0.95404381,-0.14081086,0.14081086,0.95404381,595.69638,-70.29517)">
       <g
          style="fill:#ffffff"
          id="g12-9"
