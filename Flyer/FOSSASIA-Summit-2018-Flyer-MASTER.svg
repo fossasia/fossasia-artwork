@@ -2561,8 +2561,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64"
-     inkscape:cx="360.36373"
-     inkscape:cy="396.80051"
+     inkscape:cx="234.03042"
+     inkscape:cy="-14.386419"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3143,7 +3143,7 @@
        id="gandi"
        inkscape:connector-curvature="0" />
     <g
-       transform="matrix(2.5055904,0,0,-2.5055904,-223.05916,1332.9497)"
+       transform="matrix(2.5055904,0,0,-2.5055904,-26.96541,1336.0747)"
        inkscape:label="ink_ext_XXXXXX"
        id="g4663">
       <g
@@ -3325,7 +3325,7 @@
          id="tspan7127">UNESCO Open Data Hackathon</tspan></text>
     <g
        id="g3625"
-       transform="matrix(0.52411275,0,0,-0.52411275,-39.721003,1071.957)"
+       transform="matrix(0.52411275,0,0,-0.52411275,-35.033503,1071.957)"
        style="fill:#ffffff">
       <path
          inkscape:connector-curvature="0"
@@ -3748,7 +3748,7 @@
     </g>
     <g
        id="g5903"
-       transform="matrix(1.517571,0,0,1.517571,-394.42401,-627.82081)">
+       transform="matrix(1.5383772,0,0,1.5383772,-413.0242,-631.09703)">
       <g
          aria-label="open    "
          transform="matrix(0.23583837,0,0,0.24042672,373.26766,1185.5931)"
@@ -3927,7 +3927,7 @@
     </g>
     <g
        id="g5179"
-       transform="matrix(0.09738585,0,0,0.09738585,432.99943,880.57933)"
+       transform="matrix(0.09738585,0,0,0.09738585,267.37443,879.79808)"
        style="fill:#ffffff">
       <path
          d="m 118.5,0.8883161 c -26.8,3.3 -54.2,16.7999999 -75.9,37.3999999 -11.8,11.1 -20.4,22.9 -28.1,38.4 -8.9,17.8 -12.8,32.100004 -13.7,51.000004 l -0.3,6 39,0 39,0 0.3,-4 c 0.7,-12.1 6.8,-24.1 17.2,-34.500004 8.5,-8.4 16.2,-13.4 25.9,-16.7 l 6.6,-2.2 81.3,-0.1 81.2,0 0,-38 0,-37.9999999 -84.7,0.1 c -46.7,0.1 -86.1,0.4 -87.8,0.6 z"
