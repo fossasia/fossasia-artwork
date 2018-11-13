@@ -46,9 +46,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="-758.62983"
-     inkscape:cy="380.18542"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="437.84674"
+     inkscape:cy="523.21927"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1713,7 +1713,7 @@
          x="363.2128"
          sodipodi:role="line">与免费开源软件&amp;开放硬件共建未来</tspan></text>
     <g
-       id="g3000">
+       id="g1131">
       <rect
          y="285.91785"
          x="0.67442167"
@@ -1724,13 +1724,13 @@
       <text
          transform="scale(1.0655559,0.93847727)"
          id="text5649-3-0"
-         y="369.54727"
-         x="90.944069"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:136.89808655px;line-height:0;font-family:rubik;-inkscape-font-specification:rubik;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.42245173"
+         y="369.40063"
+         x="86.438255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:139.85574341px;line-height:0;font-family:rubik;-inkscape-font-specification:rubik;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.49639297"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.83242035px;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:5.5959549px;word-spacing:0px;fill:#ffffff;stroke-width:3.42245173"
-           y="369.54727"
-           x="90.944069"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.27632141px;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:5.7168541px;word-spacing:0px;fill:#ffffff;stroke-width:3.49639297"
+           y="369.40063"
+           x="86.438255"
            id="tspan5647-4-3"
            sodipodi:role="line">新加坡</tspan></text>
       <text
