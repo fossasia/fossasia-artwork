@@ -17,8 +17,8 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="FOSSASIA-Summit-2019-Booth-Layout.svg"
    inkscape:export-filename="/home/opntec/git/fossasia-artwork/summit-19/Exhibition/FOSSASIA-Summit-2019-Booth-Layout.png"
-   inkscape:export-xdpi="79"
-   inkscape:export-ydpi="79">
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="611.50352"
-     inkscape:cy="459.56738"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="904.35256"
+     inkscape:cy="557.5521"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -767,15 +767,20 @@
          style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:0.54692376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          id="text984-5-6"
-         y="200.65244"
-         x="252.57336"
+         y="196.59834"
+         x="252.71576"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="font-size:5.29166651px;stroke-width:0.26458332"
-           y="200.65244"
-           x="252.57336"
+           y="196.59834"
+           x="252.71576"
            id="tspan982-0-5"
-           sodipodi:role="line">SUSI.AI</tspan></text>
+           sodipodi:role="line">PSLab</tspan><tspan
+           style="font-size:5.29166651px;stroke-width:0.26458332"
+           y="203.21292"
+           x="252.71576"
+           sodipodi:role="line"
+           id="tspan1062">SUSI.AI</tspan></text>
     </g>
     <rect
        y="196.76866"
@@ -824,19 +829,19 @@
          xml:space="preserve"><tspan
            style="font-size:5.29166651px;stroke-width:0.26458332"
            y="191.8165"
-           x="107.02004"
-           id="tspan982-9"
-           sodipodi:role="line">Pocket </tspan><tspan
+           x="106.17772"
+           sodipodi:role="line"
+           id="tspan3399">Soldering</tspan><tspan
            style="font-size:5.29166651px;stroke-width:0.26458332"
            y="198.43108"
            x="106.17772"
            sodipodi:role="line"
-           id="tspan3397">Science</tspan><tspan
+           id="tspan1058">with</tspan><tspan
            style="font-size:5.29166651px;stroke-width:0.26458332"
            y="205.04567"
            x="106.17772"
            sodipodi:role="line"
-           id="tspan3399">Lab</tspan></text>
+           id="tspan1060">Mitch</tspan></text>
     </g>
     <g
        id="g3383-6"
@@ -1186,110 +1191,102 @@
            sodipodi:role="line">FOSSASIA</tspan></text>
     </g>
     <g
-       id="g1597"
-       transform="translate(0.7240485,18.189624)">
-      <g
-         transform="translate(-2.7755279,3.1298135)"
-         id="g4592">
-        <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:1.09948921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect941-62-75-7-4-6-5-8-0"
-           width="16.492338"
-           height="10.994893"
-           x="168.95888"
-           y="-256.21228"
-           transform="rotate(90)" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.87875342px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29090649"
-           x="250.22023"
-           y="178.92429"
-           id="text1082-5-8"><tspan
-             sodipodi:role="line"
-             x="250.22023"
-             y="178.92429"
-             style="font-size:5.81813002px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.29090649"
-             id="tspan1088-3-1">LPI</tspan></text>
-      </g>
-      <g
-         transform="translate(-2.8026694,-43.843029)"
-         id="g4587">
-        <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:1.09948921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect941-62-75-7-4-6-5-81"
-           width="16.492338"
-           height="10.994893"
-           x="194.99223"
-           y="-256.35699"
-           transform="rotate(90)" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.87875342px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29090649"
-           x="255.26332"
-           y="203.16306"
-           id="text1082-5"><tspan
-             sodipodi:role="line"
-             x="255.26332"
-             y="203.16306"
-             style="font-size:5.81813002px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.29090649"
-             id="tspan1088-3">Sosconf</tspan></text>
-      </g>
+       id="g4592"
+       transform="translate(-2.0514794,21.319437)">
       <rect
          transform="rotate(90)"
-         y="-253.08678"
-         x="193.33488"
+         y="-256.21228"
+         x="168.95888"
          height="10.994893"
          width="16.492338"
-         id="rect941-62-75-7-4-6-5-8-0-6"
+         id="rect941-62-75-7-4-6-5-8-0"
          style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:1.09948921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <g
-         transform="translate(11.144735,2.4512832)"
-         id="g1486">
-        <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:1.09948909;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect886-6-2-9"
-           width="21.989784"
-           height="21.989784"
-           x="-225.87434"
-           y="-207.45323"
-           transform="scale(-1)" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.87875342px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29090649"
-           x="211.76616"
-           y="198.8597"
-           id="text966"><tspan
-             sodipodi:role="line"
-             id="tspan964"
-             x="211.76616"
-             y="198.8597"
-             style="font-size:5.81813002px;line-height:1;stroke-width:0.29090649">UNESCO</tspan></text>
-      </g>
-      <g
-         transform="translate(20.644604,-26.523859)"
-         id="g1532">
-        <rect
-           style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:1.09948921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect884-7-3"
-           width="32.984676"
-           height="21.989786"
-           x="177.46886"
-           y="-216.23596"
-           transform="rotate(90)"
-           inkscape:transform-center-x="-26.83631"
-           inkscape:transform-center-y="-33.639881" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:11.63626003px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29090649"
-           x="185.43291"
+      <text
+         id="text1082-5-8"
+         y="178.92429"
+         x="250.22023"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.87875342px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29090649"
+         xml:space="preserve"><tspan
+           id="tspan1088-3-1"
+           style="font-size:5.81813002px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.29090649"
+           y="178.92429"
+           x="250.22023"
+           sodipodi:role="line">LPI</tspan></text>
+    </g>
+    <g
+       id="g4587"
+       transform="translate(-2.0786209,-25.653405)">
+      <rect
+         transform="rotate(90)"
+         y="-256.35699"
+         x="194.99223"
+         height="10.994893"
+         width="16.492338"
+         id="rect941-62-75-7-4-6-5-81"
+         style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:1.09948921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1082-5"
+         y="203.16306"
+         x="255.26332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.87875342px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29090649"
+         xml:space="preserve"><tspan
+           id="tspan1088-3"
+           style="font-size:5.81813002px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.29090649"
+           y="203.16306"
+           x="255.26332"
+           sodipodi:role="line">Sosconf</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:1.09948921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect941-62-75-7-4-6-5-8-0-6"
+       width="16.492338"
+       height="10.994893"
+       x="211.52451"
+       y="-253.81082"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:1.09948909;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect886-6-2-9"
+       width="21.989784"
+       height="21.989784"
+       x="-237.74313"
+       y="-228.09413"
+       transform="scale(-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.87875342px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29090649"
+       x="236.86412"
+       y="221.39047"
+       id="text966"><tspan
+         sodipodi:role="line"
+         id="tspan964"
+         x="236.86412"
+         y="221.39047"
+         style="font-size:5.81813002px;line-height:1;stroke-width:0.29090649">UNESCO</tspan></text>
+    <g
+       id="g1532"
+       transform="translate(21.368652,-8.334235)">
+      <rect
+         inkscape:transform-center-y="-33.639881"
+         inkscape:transform-center-x="-26.83631"
+         transform="rotate(90)"
+         y="-216.23596"
+         x="177.46886"
+         height="21.989786"
+         width="32.984676"
+         id="rect884-7-3"
+         style="fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:1.09948921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text929-7"
+         y="194.13208"
+         x="185.43291"
+         style="font-style:normal;font-weight:normal;font-size:11.63626003px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29090649"
+         xml:space="preserve"><tspan
+           style="font-size:5.81813002px;stroke-width:0.29090649"
            y="194.13208"
-           id="text929-7"><tspan
-             sodipodi:role="line"
-             id="tspan927-0"
-             x="185.43291"
-             y="194.13208"
-             style="font-size:5.81813002px;stroke-width:0.29090649">Facebook</tspan></text>
-      </g>
+           x="185.43291"
+           id="tspan927-0"
+           sodipodi:role="line">Facebook</tspan></text>
     </g>
     <text
        xml:space="preserve"
