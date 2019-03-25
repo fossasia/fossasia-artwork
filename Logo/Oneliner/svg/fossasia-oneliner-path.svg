@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="fossasia-oneliner-path.svg"
-   inkscape:export-filename="/home/hp/Downloads/fossasia/fossasia-squarelogo_300dpi.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-filename="/home/opntec/git/fossasia-artwork/Logo/Oneliner/png/fossasia-oneliner-red.png"
+   inkscape:export-xdpi="120"
+   inkscape:export-ydpi="120">
   <defs
      id="defs6018">
     <inkscape:perspective
@@ -35,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.6216286"
-     inkscape:cx="570.67086"
-     inkscape:cy="87.873206"
+     inkscape:zoom="0.4395578"
+     inkscape:cx="209.15144"
+     inkscape:cy="33.270933"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
