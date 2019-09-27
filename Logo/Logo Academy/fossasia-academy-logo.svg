@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1161"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="fossasia-academy-logo.svg">
+  <defs
+     id="defs1155" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="-729.37663"
+     inkscape:cy="-160300.88"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1158">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1782"
+       transform="matrix(0.28222223,0,0,0.28222223,-1091.4328,43223.638)">
+      <text
+         id="text1724"
+         y="-1690.9166"
+         x="2953.4746"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.28131866px;line-height:67.35242462px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:-10.87931061px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.89101642"
+         xml:space="preserve"><tspan
+           id="tspan1751"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:0px;font-family:spaceman;-inkscape-font-specification:spaceman;stroke-width:0.89101642"
+           y="-1690.9166"
+           x="2953.4746"
+           sodipodi:role="line">fossasia</tspan></text>
+      <text
+         id="text1724-9"
+         y="-1633.5942"
+         x="2978.9316"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.28131866px;line-height:67.35242462px;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:-10.87931061px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.89101642"
+         xml:space="preserve"><tspan
+           id="tspan1751-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:0px;font-family:spaceman;-inkscape-font-specification:spaceman;stroke-width:0.89101642"
+           y="-1633.5942"
+           x="2978.9316"
+           sodipodi:role="line">academy</tspan></text>
+    </g>
+  </g>
+</svg>
