@@ -29,15 +29,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="489.36731"
-     inkscape:cy="551.49722"
+     inkscape:cx="460.07289"
+     inkscape:cy="309.06061"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1334-6"
      showgrid="false"
-     inkscape:window-width="2048"
-     inkscape:window-height="1124"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      objecttolerance="5"
      showguides="true"
@@ -877,14 +877,14 @@
           <text
              id="text901-3"
              y="118.73122"
-             x="247.35796"
+             x="248.69856"
              style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
              xml:space="preserve"><tspan
                style="font-size:5.29166651px;stroke-width:0.26458332"
                y="118.73122"
-               x="247.35796"
+               x="248.69856"
                id="tspan899-56"
-               sodipodi:role="line">Google</tspan></text>
+               sodipodi:role="line">LLI</tspan></text>
         </g>
       </g>
       <rect
@@ -990,15 +990,15 @@
            sodipodi:role="line">Cloud</tspan></text>
       <text
          id="text1082-5-9-9"
-         y="156.86028"
-         x="238.15186"
+         y="156.86026"
+         x="237.11578"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.08961201px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30672085"
          xml:space="preserve"><tspan
            id="tspan1088-3-3-2"
            style="font-size:6.13441753px;line-height:1;text-align:center;text-anchor:middle;stroke-width:0.30672085"
-           y="156.86028"
-           x="238.15186"
-           sodipodi:role="line">wolfssl</tspan></text>
+           y="156.86026"
+           x="237.11578"
+           sodipodi:role="line">LibreOffice</tspan></text>
       <g
          transform="matrix(1.1592601,0,0,0.90489708,-11.608528,-3.6641877)"
          id="g2782-6-7">
