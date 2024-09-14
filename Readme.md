@@ -54,3 +54,7 @@ Backgrounds for slides should use red, gray, or white. Colors should remain dist
 
 **White background with red AI network for a video screen**  
 [<img src="/General/Background/backdrop2022.png" alt="White background with red AI network" width="400px">]()
+
+**Red background with red elements moving into centre focused screen**  
+[<img src="/General/Background/ColorBackground2024.png" alt="Red background with red elements moving into centre focused screen" width="400px">]()
+
